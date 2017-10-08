@@ -1,2 +1,3 @@
 # hello_world
 My first repository...
+I'm Ellie and I like hummus.
